@@ -1,0 +1,6 @@
+.section-title_theme_dark {
+  position: relative; /* Установил position чтобы фигура не перекрывала заголовок */
+  color: #fff;
+  padding-top: 90px;
+  z-index: 3;
+}
